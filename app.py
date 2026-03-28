@@ -143,8 +143,8 @@ else:
 
         st.dataframe(preview_df, use_container_width=True)
 
-    elif page == "Insights & Business Requirements":
-        st.subheader("💡 Insights & Business Requirements")
+    elif page == "Insights & Insights & Next Steps":
+        st.subheader("💡 Insights & Insights & Next Steps")
 
         st.markdown("""
 ### 1. Data Insights
