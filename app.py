@@ -143,8 +143,8 @@ else:
 
         st.dataframe(preview_df, use_container_width=True)
 
-    elif page == "Insights & Insights & Next Steps":
-        st.subheader("💡 Insights & Insights & Next Steps")
+    elif page == "Insights & Next Steps":
+        st.subheader("💡 Insights & Next Steps")
 
         st.markdown("""
 ### 1. Data Insights
